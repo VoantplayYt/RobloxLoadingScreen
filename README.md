@@ -1,2 +1,0 @@
-# RobloxLoadingScreen
-Loading Screen
